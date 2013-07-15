@@ -1,7 +1,7 @@
 {
    "abstract" : "An Object Oriented Wait Dialog for Perl/Tk, of the Please Wait variety.",
    "author" : [
-      "Rene Schickbauer <cavac@magnapowertrain.com>"
+      "Rene Schickbauer <rene.schickbauer@magnapowertrain.com>"
    ],
    "dynamic_config" : 1,
    "generated_by" : "ExtUtils::MakeMaker version 6.64, CPAN::Meta::Converter version 2.120921",
@@ -37,5 +37,5 @@
       }
    },
    "release_status" : "stable",
-   "version" : "1.4"
+   "version" : "1.5"
 }

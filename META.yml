@@ -1,7 +1,7 @@
 ---
 abstract: 'An Object Oriented Wait Dialog for Perl/Tk, of the Please Wait variety.'
 author:
-  - 'Rene Schickbauer <cavac@magnapowertrain.com>'
+  - 'Rene Schickbauer <rene.schickbauer@magnapowertrain.com>'
 build_requires:
   ExtUtils::MakeMaker: 0
 configure_requires:
@@ -19,4 +19,4 @@ no_index:
     - inc
 requires:
   Tk: 804
-version: 1.4
+version: 1.5

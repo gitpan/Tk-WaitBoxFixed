@@ -25,6 +25,7 @@
 ## Ver 1.3 Added -takefocus param, on suggestion of Ben Hochstedler
 ##	   <benh@med.ge.com>, some other stuff
 ## Ver 1.4 Cavac: Added some fixes
+## Ver 1.5 Cavac: Added some fixes
 ##
 ###############################################################################
 ###############################################################################
@@ -38,7 +39,7 @@ use Tk::Toplevel;
 
 Tk::Widget->Construct('WaitBoxFixed');
 
-$Tk::WaitBoxFixed::VERSION = '1.4';
+$Tk::WaitBoxFixed::VERSION = '1.5';
 
 ### A couple of convenience variables
 my(@wd_fullpack) = (-expand => 1, -fill => 'both');
